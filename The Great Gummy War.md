@@ -8,7 +8,7 @@ Gummies have been at war alongside the beginning of **Christianity**. Long have 
 
 - [The Sides](#The-Sides)
 
-- [Haribo](#Hairbo)
+- [Haribo](#Haribo)
 
 - [Looking Forward](#Looking-Forward)
 
