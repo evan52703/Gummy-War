@@ -42,7 +42,7 @@ An organization deemed ‘Haribo’ created synthetic creatures derived from sug
 ![Gummy War2](https://www.themarysue.com/wp-content/uploads/2011/04/5328669937_c64962c2de_b.jpeg)
 
 Their creation began in 1920 and has spiraled out of control in production since. Their sentience alone drove them to wage war on their oppositon.
-Gummies began thirsting for more enhancements and thus power. They scaled equally over decades with their wars only becoming bigger and more brutal. Harbio has only encouraged and preserved this war from ending. With their constant gummy production and diversity, the war seemingly has no end in sight. New animals join the fight, aiding those injured and cupporting their larger party, but only two have been nomoinated as the leading identities for their parties. Haribo has immunity to the destructive power these beasts wield due to their role in strenghtening both sides of the army. There have been moments in history where gummys attempt a sabotage mission, to skewer the development of future gummies to their respective favor. However, in every documented case, the caught gummies suffered the most horiffic of fates: being crushed by a hydraulic press for a youtube video. Factions are born. Cults rise from the ashes. History is made. Tragedies unfold. All under the strings of Haribo.
+Gummies began thirsting for more enhancements and thus power. They scaled equally over decades with their wars only becoming bigger and more brutal. Harbio has only encouraged and preserved this war from ending. With their constant gummy production and diversity, the war seemingly has no end in sight. New animals join the fight, aiding those injured and supporting their larger party, but only two have been nominated as the leading identities for their parties. Haribo has immunity to the destructive power these beasts wield due to their role in strenghtening both sides of the armies. There have been moments in history where gummys attempt a sabotage mission to skewer the development of future gummies to their respective favor. However, in every documented case, the caught gummies suffered the most horiffic of fates: being crushed by a hydraulic press for a youtube video. Factions are born. Cults rise from the ashes. History is made. Tragedies unfold. All under the strings of Haribo.
 
 #### Haribo's Production Power
 Haribo's production can be simplified to an equation completed in python code.
@@ -65,7 +65,7 @@ input()
 ```
 
 
-In these most recent years, Haribo's gummy production has scaled out of control and hope for a war-less tomorrow looks more and more unrealistic with each passing year.
+In these most recent years, Haribo's gummy production has scaled out of control and hope for a war-less future looks more and more unrealistic with each passing year.
 
 ### Looking Forward
 Understanding the magnitude of production Haribo controls at this point is key in predicting our future. Gummies have garnered Haribo the necessary income to build their empire. Things have gotten so out of hand that the only solution to this war is stopping Harbio altogether. Soon, there will not be a future where stopping Haribo is possible. For whatever side you support, root for the destruction of this ungodly devilish thrashing beast of a "gummy company".
