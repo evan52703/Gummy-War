@@ -41,7 +41,8 @@ To learn more about the strength and science of gummy bears [click here](https:/
 An organization deemed ‘Haribo’ created synthetic creatures derived from sugar and fructose. Their experiments gave these beings life and from the beginning, they were sworn enemies.
 ![Gummy War2](https://www.themarysue.com/wp-content/uploads/2011/04/5328669937_c64962c2de_b.jpeg)
 
-Gummies began thirsting for more enhancements and thus power. They scaled equally over decades with their wars only becoming bigger and more brutal. Harbio has only encouraged and preserved this war from ending. With their constant gummy production and diversity, the war seemingly has no end in sight.
+Their creation began in 1920 and has spiraled out of control in production since. Their sentience alone drove them to wage war on their oppositon.
+Gummies began thirsting for more enhancements and thus power. They scaled equally over decades with their wars only becoming bigger and more brutal. Harbio has only encouraged and preserved this war from ending. With their constant gummy production and diversity, the war seemingly has no end in sight. New animals join the fight, aiding those injured and cupporting their larger party, but only two have been nomoinated as the leading identities for their parties. Haribo has immunity to the destructive power these beasts wield due to their role in strenghtening both sides of the army. There have been moments in history where gummys attempt a sabotage mission, to skewer the development of future gummies to their respective favor. However, in every documented case, the caught gummies suffered the most horiffic of fates: being crushed by a hydraulic press for a youtube video. Factions are born. Cults rise from the ashes. History is made. Tragedies unfold. All under the strings of Haribo.
 
 #### Haribo's Production Power
 Haribo's production can be simplified to an equation completed in python code.
